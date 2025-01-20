@@ -7,5 +7,7 @@
 			"path": "../../../../webbutveckling"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webbutveckling"
+	}
 }
